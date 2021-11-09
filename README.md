@@ -1,4 +1,4 @@
-# Video_Tutorials_Csharp
+# Video Tutorials C#
 Code for my video tutorials, C# edition. 
 
 ## Please don't spoon feed off the code!
