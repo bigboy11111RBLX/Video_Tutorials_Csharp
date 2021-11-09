@@ -11,3 +11,7 @@ Code for my video tutorials, C# edition.
 Click on the *Main branch*
 
 Then, click on what ever branch you need to see!
+
+
+### Tutorials
+https://www.youtube.com/playlist?list=PLE-SfqdDGJku4csBap8FPu4eGP-E6u_eV
