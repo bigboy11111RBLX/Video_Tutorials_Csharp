@@ -1,5 +1,5 @@
-# Video Tutorials C#
-Code for my video tutorials, C# edition. 
+# Video Tutorials LUA
+Code for my video tutorials, LUA edition. 
 
 ## Please don't spoon feed off the code!
 ### This is for if you have an issue, and need to copy and paste certain functions.
@@ -14,4 +14,4 @@ Then, click on what ever branch you need to see!
 
 
 ### Tutorials
-https://www.youtube.com/playlist?list=PLE-SfqdDGJku4csBap8FPu4eGP-E6u_eV
+https://www.youtube.com/watch?v=f-v00iiqFOw
